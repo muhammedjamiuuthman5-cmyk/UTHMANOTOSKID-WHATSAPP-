@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "UTHMANOTOSKID WHATSAPP",
+    "slug": "uthmanotoskid-whatsapp",
+    "version": "1.0.0",
+    "platforms": ["ios", "android"],
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.uthmanotoskidwhatsapp"
+    },
+    "android": {
+      "package": "com.yourcompany.uthmanotoskidwhatsapp"
+    }
+  }
+}
